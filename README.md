@@ -63,5 +63,19 @@ Un Mercato Mobiliare non Regolamentato (Over the Counter, OTC) è un luogo, fisi
 Tuttavia, per quanto riguarda gli OTC basati in Italia, la CONSOB può richiedere agli organizzatori, agli emittenti e agli operatori dati, notizie e documenti sugli scambi organizzati di strumenti finanziari (artt. 78 e 79 del TUF D.Lgs. 58/1998). La CONSOB gestisce l'elenco dei Sistemi di Scambi Organizzati
 
 
+Termine
+Mercato Fisico		
+Categoria
+Mercati Finanziari
+
+Definizione
+Mercato nel quale le contrattazioni degli strumenti finanziari avvengono mediante l'incontro fisico (nel medesimo luogo e nel medesimo istante) di acquirenti e venditori.
+Approfondimento
+Nei mercati fisici gli acquirenti e i venditori per effettuare uno scambio devono incontrarsi ed esporre le loro intenzioni negoziali. I mercati fisici possono essere sia mercati di dealer (quote driven) sia organizzati sia in forma di asta (borse alle grida). Nei mercati fisici di dealer i rappresentanti degli investitori (broker) si rivolgono ai dealer chiedeno loro a quale prezzo sono disposti ad acquistare (prezzo denaro o bid) e a quale prezzo sono disposti a vendere (prezzo lettera o ask) una determinanta quantità di titoli; successivamente il broker annuncia se di dichiara acquirente o venditore ai prezzi esposti dal dealer. I mercati fisici ad asta sono caratterizzati dal fatto che acquirenti e venditori di un determinato titolo "gridano" le loro intenzioni contrattuali per renderle note a tutti gli operatori presenti. In genere tale mercato funziona in forma di asta (a chiamata) per cui esiste un banditore che ha il compito di raccogliere le proposte in acquisto (denaro) e in vendita (lettera) giungendo, alla fine, alla determinazione di un unico prezzo al quale eseguire gli scambi (fixing). Il vantaggio di questo mercato è quello tipico dei mercati ad asta a chiamata, ossia il fatto che essendovi un unico fixing, il prezzo che scaturisce incorpora tutte le informazioni presenti sul mercato stesso. Il principale svantaggio deriva dal fatto che gli operatori, per poter scambiare, devono inevitabilmente essere presenti.
+
+
+
+
+
 
 
