@@ -4,10 +4,10 @@
 
 
 Termine
-Mercato Forward
+**Mercato Forward**
 		
 Categoria
-Mercati Finanziari
+**Mercati Finanziari**
 
 Definizione
 Mercato in cui le negoziazioni prevedono la consegna differita dell'attività oggetto di scambio, a un prezzo prestabilito all'atto della negoziazione stessa.
