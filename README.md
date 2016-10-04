@@ -49,3 +49,19 @@ Esempio
 La Borsa Italiana è un esempio di mercato organizzato; Borsa Italiana S.p.A. è la Società di Gestione che gestisce il mercato nel suo complesso ed i vari segmenti in cui esso risulta suddiviso. Borsa Italiana S.p.A. emana il regolamento, per ognuno dei mercati gestiti, che dovrà essere poi approvato dalla Consob.
 
 
+Termine
+Mercato Over the Counter		
+Categoria
+Mercati Finanziari
+
+Definizione
+Mercato mobiliare non soggetto ad alcuna regolamentazione specifica relativa all’organizzazione e al funzionamento del mercato stesso.
+Link Utili
+http://www.consob.it
+Approfondimento
+Un Mercato Mobiliare non Regolamentato (Over the Counter, OTC) è un luogo, fisico o virtuale, in cui gli operatori si incontrano al fine di collocare, scambiare o rimborsare valori mobiliari. L'assenza di regolamentazione riguarda il fatto che il funzionamento di tale mercato, i titoli e gli operatori ammessi non sono assoggettati alla disciplina specifica e alla autorizzazione delle Autorità di Vigilanza in materia di Mercati Regolamentati e non sono iscritti nell'apposito albo. Le modalità di contrattazione non sono standardizzate ed è possibile stipulare contratti "atipici". In generale i titoli trattati in un mercato OTC sono meno liquidi rispetto a quelli trattati sui mercati ufficiali. In Italia i mercati OTC assumono la configurazione di Sistemi di Scambi Organizzati (SSO).
+Tuttavia, per quanto riguarda gli OTC basati in Italia, la CONSOB può richiedere agli organizzatori, agli emittenti e agli operatori dati, notizie e documenti sugli scambi organizzati di strumenti finanziari (artt. 78 e 79 del TUF D.Lgs. 58/1998). La CONSOB gestisce l'elenco dei Sistemi di Scambi Organizzati
+
+
+
+
