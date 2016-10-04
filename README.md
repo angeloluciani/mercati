@@ -74,6 +74,35 @@ Approfondimento
 Nei mercati fisici gli acquirenti e i venditori per effettuare uno scambio devono incontrarsi ed esporre le loro intenzioni negoziali. I mercati fisici possono essere sia mercati di dealer (quote driven) sia organizzati sia in forma di asta (borse alle grida). Nei mercati fisici di dealer i rappresentanti degli investitori (broker) si rivolgono ai dealer chiedeno loro a quale prezzo sono disposti ad acquistare (prezzo denaro o bid) e a quale prezzo sono disposti a vendere (prezzo lettera o ask) una determinanta quantità di titoli; successivamente il broker annuncia se di dichiara acquirente o venditore ai prezzi esposti dal dealer. I mercati fisici ad asta sono caratterizzati dal fatto che acquirenti e venditori di un determinato titolo "gridano" le loro intenzioni contrattuali per renderle note a tutti gli operatori presenti. In genere tale mercato funziona in forma di asta (a chiamata) per cui esiste un banditore che ha il compito di raccogliere le proposte in acquisto (denaro) e in vendita (lettera) giungendo, alla fine, alla determinazione di un unico prezzo al quale eseguire gli scambi (fixing). Il vantaggio di questo mercato è quello tipico dei mercati ad asta a chiamata, ossia il fatto che essendovi un unico fixing, il prezzo che scaturisce incorpora tutte le informazioni presenti sul mercato stesso. Il principale svantaggio deriva dal fatto che gli operatori, per poter scambiare, devono inevitabilmente essere presenti.
 
 
+Termine
+Future		
+Categoria
+Strumenti Finanziari Derivati
+
+Definizione
+Contratto a termine standardizzato con il quale le parti si impegnano a scambiare una certa attività (finanziaria o reale) a un prezzo prefissato e con liquidazione differita a una data futura.
+Approfondimento
+Il future è un contratto derivato negoziato su mercati regolamentati mediante il quale acquirente e venditore si impegnano a scambiarsi una determinata quantità di una certa attività finanziaria o reale (detta attività sottostante o underlying asset) a un prezzo prefissato e con liquidazione differita a una data futura prestabilita. È un contratto simmetrico in quanto entrambi i contraenti sono obbligati a effettuare una prestazione a scadenza.
+L'operatore che acquista il future (che si impegna, cioè, ad acquistare a scadenza il sottostante) assume una posizione lunga (long), mentre l'operatore che vende il future assume una posizione corta (short).
+Nella maggior parte dei casi i future non si concludono con la consegna fisica del bene sottostante, infatti gli operatori preferiscono "chiudere" le posizioni aperte rivendendo un contratto future precedentemente acquistato o acquistando il contratto future precedentemente venduto; ciò consente di risparmiare sui costi di consegna. Al contrario, se il future giunge a scadenza, potrà essere liquidato per cash settlement (calcolandone il controvalore monetario) oppure potrà avvenire la consegna fisica dell'attività sottostante. In quest'ultimo caso l'esatta quantità e qualità dei beni consegnabili sono fissate dal mercato in cui tale contratto viene scambiato.
+L'attività sottostante (underlying asset) di un future può essere un'azione, un'obbligazione, un tasso di interesse a lungo termine, un tasso a breve, una valuta, un indice azionario o una merce (commodity).
+La dimensione del contratto definisce l'ammontare che il venditore dovrà consegnare al compratore per ogni contratto stipulato.
+In Italia i future sono negoziati sul mercato IDEM. Esistono tre tipi di contratti: S&P/Mib Futures (contratto future scritto sull'indice S&P/Mib, ogni punto indice vale € 5), Mini S&P/Mib (analogo al precedente, ma con un valore di € 1 per ciascun punto indice), Single Stock Futures (future scritti su titoli azionari).
+Al fine di ridurre i rischi di insolvenza, la Clearing House (che in Italia è la Cassa di Compensazione e Garanzia) obbliga i contraenti a liquidare quotidianamente le posizioni aperte in future attraverso il meccanismo del marking-to-market. 
+I future possono essere negoziati con tre finalità: copertura, speculazione e arbitraggio.
+Il prezzo future teorico di un titolo S che paga un dividend yield pari a q può essere calcolato mediante la seguente relazione:
+
+
+
+dove r rappresenta il tasso di interesse privo di rischio corrispondente alla scadenza del future T, mentre S(0) rappresenta il prezzo spot (attuale) dell'attività sottostante.
+
+Nel caso di un future scritto su valute (currency future) il prezzo teorico è dato da:
+
+
+
+dove r(f) rappresenta il tasso estero privo di rischio ed S(0) il tasso di cambio spot.
+
+
 
 
 
