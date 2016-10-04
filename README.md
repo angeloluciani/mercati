@@ -31,3 +31,21 @@ Il **mercato a pronti** è anche denominato **mercato spot** o **mercato cash** 
 I sistemi di compensazione e liquidazione possono prevedere diverse modalità di liquidazione a pronti. Le modalità previste dal sistema italiano, sono essenzialmente due e vengono denominate "T+2" (quando la liquidazione dello scambio avviene il secondo giorno di borsa aperta successivo a quello di negoziazione) e "T+3" (quando la liquidazione dello scambio avviene il terzo giorno di borsa aperta successivo a quello di negoziazione). La liquidazione a **"T+2"** è utilizzata per i **titoli di Stato a breve termine (Buoni Ordinari del Tesoro)**; per tutti gli altri strumenti la liquidazione avviene "T+3".
 
 
+Termine
+Mercato Organizzato		
+Categoria
+Mercati Finanziari
+
+Definizione
+Mercato mobiliare disciplinato da uno specifico regolamento formale.
+Approfondimento
+In ambito economico-finanziario i mercati sono istituzioni caratterizzate dalla presenza di due o più soggetti (operatori) che si scambiano valori mobiliari (strumenti) secondo determinate modalità (regole). La teoria economica assegna a tali istituzioni il compito di facilitare gli scambi sotto diversi punti di vista.
+Il mercato organizzato è, nella maggior parte dei casi, gestito da una apposta società (spesso a fini di lucro) che istituisce un regolamento nel quale vengono dettate appunto le regole di funzionamento del mercato stesso, gli strumenti ed i soggetti ammessi alle negoziazioni e le modalità stesse di negoziazione.
+I mercati organizzati possono assumere diverse configurazioni in base alla tipologia di soggetti partecipanti, alle modalità con cui essi interagiscono, al tipo di strumenti scambiati, alle modalità di conclusione dei contratti e alla presenza o meno di una regolamentazione riconosciuta dalle Autorità di Vigilanza.
+Di norma, i mercati organizzati offrono una liquidità degli strumenti trattati superiore rispetto agli altri mercati.
+Ultimo Aggiornamento: 17 gennaio 2011 - 07:17
+
+Esempio
+La Borsa Italiana è un esempio di mercato organizzato; Borsa Italiana S.p.A. è la Società di Gestione che gestisce il mercato nel suo complesso ed i vari segmenti in cui esso risulta suddiviso. Borsa Italiana S.p.A. emana il regolamento, per ognuno dei mercati gestiti, che dovrà essere poi approvato dalla Consob.
+
+
