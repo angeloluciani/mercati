@@ -32,9 +32,9 @@ I sistemi di compensazione e liquidazione possono prevedere diverse modalità di
 
 
 Termine
-Mercato Organizzato		
+**Mercato Organizzato**		
 Categoria
-Mercati Finanziari
+**Mercati Finanziari**
 
 Definizione
 Mercato mobiliare disciplinato da uno specifico regolamento formale.
@@ -50,9 +50,9 @@ La Borsa Italiana è un esempio di mercato organizzato; Borsa Italiana S.p.A. è
 
 
 Termine
-Mercato Over the Counter		
+**Mercato Over the Counter**		
 Categoria
-Mercati Finanziari
+**Mercati Finanziari**
 
 Definizione
 Mercato mobiliare non soggetto ad alcuna regolamentazione specifica relativa all’organizzazione e al funzionamento del mercato stesso.
@@ -64,9 +64,9 @@ Tuttavia, per quanto riguarda gli OTC basati in Italia, la CONSOB può richieder
 
 
 Termine
-Mercato Fisico		
+**Mercato Fisico**		
 Categoria
-Mercati Finanziari
+**Mercati Finanziari**
 
 Definizione
 Mercato nel quale le contrattazioni degli strumenti finanziari avvengono mediante l'incontro fisico (nel medesimo luogo e nel medesimo istante) di acquirenti e venditori.
@@ -75,9 +75,9 @@ Nei mercati fisici gli acquirenti e i venditori per effettuare uno scambio devon
 
 
 Termine
-Future		
+**Future**		
 Categoria
-Strumenti Finanziari Derivati
+**Strumenti Finanziari Derivati**
 
 Definizione
 Contratto a termine standardizzato con il quale le parti si impegnano a scambiare una certa attività (finanziaria o reale) a un prezzo prefissato e con liquidazione differita a una data futura.
